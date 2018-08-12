@@ -1,2 +1,2 @@
-# randomkeygen.com
-Random Key Generator
+# randomkeygen.ir
+Persian Random Key Generator
